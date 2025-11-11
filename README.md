@@ -4,8 +4,8 @@
 # 🧭导航
 |名称|功能描述|
 |----|----|
-|[Xbit Wallet](https://github.com/lukema95/xbit-wallet)|基于邮箱的ERC4377账户抽象钱包
-|[Bodhi Trade](https://github.com/lukema95/bodhi-trade)|支持使用bodhi协议手续手续费的交易平台|
+|[Xbit Wallet](./xbit-wallet/README.md)|基于邮箱的ERC4377账户抽象钱包
+|[Bodhi Trade](./bodhi-trade/README.md)|支持使用bodhi协议手续手续费的交易平台|
 |[FireWorks Contract](./fireworks-contracts/README.md)|用于燃烧用户的NFT并给予相应奖励的合约|
 |[Ghost Contract](./ghost-contracts/README.md)|用于链上地址路由重定向的尝试，灵感来源EOA向账户抽象迁移|
 |[Mint Bot](./mint-bot/README.md)|一个简易的定时 NFT Mint 脚本工具|
